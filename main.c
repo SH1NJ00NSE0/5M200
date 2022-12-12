@@ -299,7 +299,7 @@ int main()
 			break;
 
 		case 5: // 이벤트 전체 조회
-			sortDate(head, cnt);
+			// sortDate(head, cnt);
 			printDlist(head);
 			break;
 
